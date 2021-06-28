@@ -4,5 +4,5 @@ Self-Supervised depth kalilia
 | Conference   |     Tittle                                                                              |
 |--------------|:---------------------------------------------------------------------------------------:|
 |  NIPS2020    | [ Forget About the LiDAR: Self-Supervised Depth Estimators with MED Probability Volumes](https://arxiv.org/pdf/2008.03633.pdf)  |
-| col 2 is     |    centered    |   $12 |
+| col 2 is     |                 [DRO: Deep Recurrent Optimizer for Structure-from-Motion](https://arxiv.org/pdf/2103.13201.pdf)                 |
 | col 3 is     | right-aligned  |    $1 |
