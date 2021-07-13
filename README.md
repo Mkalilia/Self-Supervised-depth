@@ -10,6 +10,5 @@ Self-Supervised depth kalilia
 # 2-Mono-SLAM
 | Conference   |     Tittle                                                                              |code|
 |--------------|:---------------------------------------------------------------------------------------:|----|
-| IROS     |                 [D2VO: Monocular Deep Direct Visual Odometry](https://arxiv.org/pdf/2103.13201.pdf)                 |
-| ECCV2018    |                 [Deep Virtual Stereo Odometry:
-Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/pdf/1807.02570)                 |
+| IROS     |                 [D2VO: Monocular Deep Direct Visual Odometry](https://arxiv.org/pdf/2103.13201.pdf)                 ||
+| ECCV2018    |                 [Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/pdf/1807.02570)                 ||
