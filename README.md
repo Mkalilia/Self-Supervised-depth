@@ -15,6 +15,7 @@ Self-Supervised depth kalilia
 | CVPR2018    |[GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](http://arxiv.org/abs/1803.02276)                 |[link](https://github.com/yzcjtr/GeoNet)|SenseTime Research|
 | LNCS2018    |[DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency](http://arxiv.org/abs/1809.01649)                 |)|Virginia Tech|
 | ECCV2018    |                 [Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/pdf/1807.02570)                 ||
+|ICCV2019     | [Unsupervised High-Resolution Depth Learning From Videos With Dual Networks](http://arxiv.org/abs/2105.02195)||Tsinghua University|
 |CVPR2020   | [On the uncertainty of self-supervised monocular depth estimation](http://arxiv.org/abs/2005.06209)|[link](https://github.com/mattpoggi/mono-uncertainty)|University of Bologna, Italy|
 |CVPR2020   | [Towards Better Generalization: Joint Depth-Pose Learning without PoseNet](http://arxiv.org/abs/2004.01314)|[link](https://github.com/B1ueber2y/TrianFlow)|Tsinghua University|
 |CVPR2020   | [3D Packing for Self-Supervised Monocular Depth Estimation](http://arxiv.org/abs/1905.02693)||NAVER LABS|
