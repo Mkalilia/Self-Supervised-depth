@@ -12,10 +12,11 @@ Self-Supervised depth kalilia
 |--------------|:---------------------------------------------------------------------------------------:|----|-----|
 | IROS     |                 [D2VO: Monocular Deep Direct Visual Odometry](https://arxiv.org/pdf/2103.13201.pdf)                 |||
 | ECCV2018    |                 [Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/pdf/1807.02570)                 ||
-|||
+|AAAI2021|HR-Depth : High Resolution Self-Supervised Monocular Depth Estimation|[link](https://github.com/shawLyu/HR-Depth)|Zhejiang University|
 # 3-Multi-view-stereo
 | Conference   |     Tittle                                                                              |code|Author|
 |--------------|:---------------------------------------------------------------------------------------:|----|-----|
+
 # 4-SLAM\Visual Odometry
 | Conference   |     Tittle                                                                              |code|Author|
 |--------------|:---------------------------------------------------------------------------------------:|----|-----|
