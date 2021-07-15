@@ -26,6 +26,7 @@ Self-Supervised depth kalilia
 |CVPR2021     | [MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from a Single Moving Camera](http://arxiv.org/abs/2011.11814)|[link](https://vision.in.tum.de/research/monorec)|TUM|
 |2021     | [Self-supervised Depth Estimation Leveraging Global Perception and Geometric Smoothness Using On-board Videos](http://arxiv.org/abs/2011.11814)||Hong Kong Polytechnic University|
 |2021     | [Moving SLAM: Fully Unsupervised Deep Learning in Non-Rigid Scenes](http://arxiv.org/abs/2105.02195)||HKUST|
+|2021     | [Unsupervised Joint Learning of Depth, Optical Flow, Ego-motion from Video](https://arxiv.org/pdf/2105.14520.pdf)||Tongji University|
 
 # 3-Multi-view-stereo
 | Conference   |     Tittle                                                                              |code|Author|
