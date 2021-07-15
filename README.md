@@ -25,6 +25,7 @@ Self-Supervised depth kalilia
 |NIPS2019   | [SC-SfMLearner: Unsupervised scale-consistent depth and ego-motion learning from monocular video](http://arxiv.org/abs/1908.10553)||University of Adelaide, Australia|:see_no_evil:|
 |CVPR2019  | [Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation](http://arxiv.org/abs/1805.09806)||Max Planck Institute for Intelligent Systems|:see_no_evil:|
 |ECCV2020   | [DeepSFM: Structure From Motion Via Deep Bundle Adjustment](http://arxiv.org/abs/1912.09697)||Fudan University|:see_no_evil:|
+|CoRL2020   | [Unsupervised Monocular Depth Learning in Dynamic Scenes](http://arxiv.org/abs/2010.16404)||Google Research|:see_no_evil:|
 |CVPR2020   | [On the uncertainty of self-supervised monocular depth estimation](http://arxiv.org/abs/2005.06209)|[link](https://github.com/mattpoggi/mono-uncertainty)|University of Bologna, Italy|:see_no_evil:|
 |CVPR2020   | [Towards Better Generalization: Joint Depth-Pose Learning without PoseNet](http://arxiv.org/abs/2004.01314)|[link](https://github.com/B1ueber2y/TrianFlow)|Tsinghua University|:see_no_evil:|
 |CVPR2020   | [3D Packing for Self-Supervised Monocular Depth Estimation](http://arxiv.org/abs/1905.02693)||NAVER LABS|:see_no_evil:|
