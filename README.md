@@ -35,6 +35,7 @@ Self-Supervised depth kalilia
 |CVPR2020   | [Self-supervised monocular trained depth estimation using self-attention and discrete disparity volume](http://arxiv.org/abs/2003.13951)||University of Adelaide|:see_no_evil:|
 |2020   | [SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction](http://arxiv.org/abs/2010.02893)|[link](https://github.com/TRI-ML/packnet-sfm)|Toyota Research Institute (TRI)|:see_no_evil:|
 |2020   | [Self-Supervised Monocular Depth Estimation : Solving the Dynamic Object Problem by Semantic Guidance](http://arxiv.org/abs/2007.06936)||Technische Universit¨at Braunschweig, Germany|:see_no_evil:|
+|CoRL2020   | [Attentional Separation-and-Aggregation Network for Self-supervised Depth-Pose Learning in Dynamic Scenes](http://arxiv.org/abs/2011.09369)||Tsinghua University|:see_no_evil:|
 |AAAI2021|HR-Depth : High Resolution Self-Supervised Monocular Depth Estimation|[link](https://github.com/shawLyu/HR-Depth)|Zhejiang University|:see_no_evil:|
 |CVPR2021     | [Manydepth:The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/pdf/2104.14540.pdf)|[link](http://arxiv.org/abs/2106.03505)|Niantic|:see_no_evil:|
 |CVPR2021     | [MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from a Single Moving Camera](http://arxiv.org/abs/2011.11814)|[link](https://vision.in.tum.de/research/monorec)|TUM|:see_no_evil:|
