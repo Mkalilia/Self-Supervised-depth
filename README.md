@@ -28,4 +28,4 @@ Self-Supervised depth kalilia
 | ECCV2020     |                 [Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction](http://arxiv.org/abs/2004.10681)                 ||IIIT-Delhi|
 # 5-depth estimation and complementation
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|
-||                 [Sparse Auxiliary Networks for Unified Monocular Depth Prediction and Completion Vitor](http://arxiv.org/abs/2103.16690)                 ||Toyota Research Institute (TRI)|
+|| [Sparse Auxiliary Networks for Unified Monocular Depth Prediction and Completion Vitor](http://arxiv.org/abs/2103.16690)   ||Toyota Research Institute (TRI)|
