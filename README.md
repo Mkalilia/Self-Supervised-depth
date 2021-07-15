@@ -12,6 +12,7 @@ Self-Supervised depth kalilia
 # 2-Mono-SfM
 | Conference   |     Tittle                                                                              |code|Author|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|
+| CVPR2017    |[SfMLearner: Unsupervised Learning of Depth and Ego-Motion from Video](http://arxiv.org/abs/1702.02706)                 ||RWTH Aachen University|
 | CVPR2017    |[SfMLearner: Unsupervised Learning of Depth and Ego-Motion from Video](http://arxiv.org/abs/1704.07813)                 |[link](https://github.com/tinghuiz/SfMLearner)|UC Berkeley|
 | CVPR2018    |[GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](http://arxiv.org/abs/1803.02276)                 |[link](https://github.com/yzcjtr/GeoNet)|SenseTime Research|
 | LNCS2018    |[DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency](http://arxiv.org/abs/1809.01649)                 |)|Virginia Tech|
