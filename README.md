@@ -14,6 +14,7 @@ Self-Supervised depth kalilia
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|
 | CVPR2017    |[Semi-Supervised Deep Learning for Monocular Depth Map Prediction](http://arxiv.org/abs/1702.02706)                 ||RWTH Aachen University|:see_no_evil:|
 | CVPR2017    |[SfMLearner: Unsupervised Learning of Depth and Ego-Motion from Video](http://arxiv.org/abs/1704.07813)                 |[link](https://github.com/tinghuiz/SfMLearner)|UC Berkeley|:see_no_evil:|
+| CVPR2018    |[DVO: Learning Depth from Monocular Videos using Direct Methods](http://arxiv.org/abs/1712.00175)                 ||Carnegie Mellon University|:see_no_evil:|
 | CVPR2018    |[GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](http://arxiv.org/abs/1803.02276)                 |[link](https://github.com/yzcjtr/GeoNet)|SenseTime Research|:see_no_evil:|
 | ECCV2018    |[DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency](http://arxiv.org/abs/1809.01649)                 |)|Virginia Tech|:see_no_evil:|
 |ICRA2019     | [SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation](http://arxiv.org/abs/1810.01849)||Toyota Research Institute (TRI)|:see_no_evil:|
