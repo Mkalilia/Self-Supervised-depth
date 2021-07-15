@@ -50,6 +50,7 @@ Self-Supervised depth kalilia
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 | TR2015    |                 [ORB-SLAM: A Versatile and Accurate Monocular SLAM System](http://arxiv.org/abs/1502.00956)                 ||Universidad de Zaragoza|:see_no_evil:|
+| TR2017    |                 [ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras](http://arxiv.org/abs/1610.06475)                 ||Universidad de Zaragoza|:see_no_evil:|
 |2016|                 [A Photometrically Calibrated Benchmark For Monocular Visual Odometry](http://arxiv.org/abs/1607.02555)                 ||TUM|:see_no_evil:|
 |PAMI2018|                 [DSO: Direct Sparse Odometry](http://arxiv.org/abs/1607.02565)                 ||TUM|:see_no_evil:|
 |IROS2018|                 [LDSO: Direct Sparse Odometry with Loop Closure](http://arxiv.org/abs/1808.01111)                 ||TUM|:see_no_evil:|
