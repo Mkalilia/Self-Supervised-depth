@@ -10,8 +10,8 @@ Self-Supervised depth kalilia
 |ECCV2020   |[Feature-metric Loss for Self-supervised Learning of Depth and Egomotion](https://arxiv.org/pdf/2007.10603.pdf)|[link](https://github.com/sconlyshootery/FeatDepth)|:see_no_evil:||
 
 # 2-Mono-SfM
-| Conference   |     Tittle                                                                              |code|Author|
-|--------------|:-------------------------------------------------------------------------------------------:|----|-----|
+| Conference   |     Tittle                                                                              |code|Author|mark|
+|--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|
 | CVPR2017    |[Semi-Supervised Deep Learning for Monocular Depth Map Prediction](http://arxiv.org/abs/1702.02706)                 ||RWTH Aachen University|:see_no_evil:|
 | CVPR2017    |[SfMLearner: Unsupervised Learning of Depth and Ego-Motion from Video](http://arxiv.org/abs/1704.07813)                 |[link](https://github.com/tinghuiz/SfMLearner)|UC Berkeley|:see_no_evil:|
 | CVPR2018    |[GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](http://arxiv.org/abs/1803.02276)                 |[link](https://github.com/yzcjtr/GeoNet)|SenseTime Research|:see_no_evil:|
@@ -36,12 +36,12 @@ Self-Supervised depth kalilia
 |2021     | [Unsupervised Joint Learning of Depth, Optical Flow, Ego-motion from Video](https://arxiv.org/pdf/2105.14520.pdf)||Tongji University|:see_no_evil:|
 
 # 3-Multi-view-stereo
-| Conference   |     Tittle                                                                              |code|Author|
-|--------------|:-------------------------------------------------------------------------------------------:|----|-----|
+| Conference   |     Tittle                                                                              |code|Author|mark|
+|--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 ||                 [CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching](http://arxiv.org/abs/2104.04314)                 |[link](https://github.com/gallenszl/CFNet)|Northwestern Polytechnical University|:see_no_evil:|
 # 4-SLAM\Visual Odometry
-| Conference   |     Tittle                                                                              |code|Author|
-|--------------|:-------------------------------------------------------------------------------------------:|----|-----|
+| Conference   |     Tittle                                                                              |code|Author|mark|
+|--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 |2016|                 [A Photometrically Calibrated Benchmark For Monocular Visual Odometry](http://arxiv.org/abs/1607.02555)                 ||TUM|:see_no_evil:|
 |PAMI2018|                 [DSO: Direct Sparse Odometry](http://arxiv.org/abs/1607.02565)                 ||TUM|:see_no_evil:|
 |IROS2018|                 [LDSO: Direct Sparse Odometry with Loop Closure](http://arxiv.org/abs/1808.01111)                 ||TUM|:see_no_evil:|
@@ -53,7 +53,7 @@ Self-Supervised depth kalilia
 | CVPR2020     |                 [VOLDOR: Visual Odometry from Log-logistic Dense Optical flow Residuals](http://arxiv.org/abs/2104.06789)                 ||Stevens Institute of Technology|:see_no_evil:|
 | 2021    |                 [Generalizing to the Open World: Deep Visual Odometry with Online Adaptation](http://arxiv.org/abs/2103.15279)                 ||Peking University|:see_no_evil:|
 # 5-depth estimation and complementation
-| Conference   |     Tittle                                                                              |code|Author|
-|--------------|:-------------------------------------------------------------------------------------------:|----|-----|
+| Conference   |     Tittle                                                                              |code|Author|mark|
+|--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 || [Sparse Auxiliary Networks for Unified Monocular Depth Prediction and Completion Vitor](http://arxiv.org/abs/2103.16690)   ||Toyota Research Institute (TRI)|:see_no_evil:|
 |3DV2019| [Enhancing self-supervised monocular depth estimation with traditional visual odometry](http://arxiv.org/abs/1908.03127)   ||Univrses AB|:see_no_evil:|
