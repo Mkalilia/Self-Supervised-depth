@@ -27,5 +27,6 @@ Self-Supervised depth kalilia
 | IROS     |                 [D2VO: Monocular Deep Direct Visual Odometry](https://arxiv.org/pdf/2103.13201.pdf)                 |||
 | ECCV2020     |                 [Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction](http://arxiv.org/abs/2004.10681)                 ||IIIT-Delhi|
 # 5-depth estimation and complementation
+| Conference   |     Tittle                                                                              |code|Author|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|
 || [Sparse Auxiliary Networks for Unified Monocular Depth Prediction and Completion Vitor](http://arxiv.org/abs/2103.16690)   ||Toyota Research Institute (TRI)|
