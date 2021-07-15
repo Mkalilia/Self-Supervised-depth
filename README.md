@@ -16,7 +16,8 @@ Self-Supervised depth kalilia
 | ECCV2018    |                 [Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/pdf/1807.02570)                 ||
 |CVPR2020   | [On the uncertainty of self-supervised monocular depth estimation](http://arxiv.org/abs/2005.06209)|[link](https://github.com/mattpoggi/mono-uncertainty)|University of Bologna, Italy|
 |CVPR2020   | [Towards Better Generalization: Joint Depth-Pose Learning without PoseNet](http://arxiv.org/abs/2004.01314)|[link](https://github.com/B1ueber2y/TrianFlow)|Tsinghua University|
-|CVPR2020   | [3D Packing for Self-Supervised Monocular Depth Estimation](http://arxiv.org/abs/1905.02693)|[link](https://github.com/TRI-ML/packnet-sfm)|Toyota Research Institute (TRI)|
+|CVPR2020   | [3D Packing for Self-Supervised Monocular Depth Estimation](http://arxiv.org/abs/1905.02693)||NAVER LABS|
+|2020   | [SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction](http://arxiv.org/abs/2010.02893)|[link](https://github.com/TRI-ML/packnet-sfm)|Toyota Research Institute (TRI)|
 |AAAI2021|HR-Depth : High Resolution Self-Supervised Monocular Depth Estimation|[link](https://github.com/shawLyu/HR-Depth)|Zhejiang University|
 |CVPR2021     | [Manydepth:The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/pdf/2104.14540.pdf)|[link](http://arxiv.org/abs/2106.03505)|Niantic|
 |CVPR2021     | [MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from a Single Moving Camera](http://arxiv.org/abs/2011.11814)|[link](https://vision.in.tum.de/research/monorec)|TUM|
