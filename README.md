@@ -60,6 +60,7 @@ Self-Supervised depth kalilia
 | ECCV2020     |                 [Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction](http://arxiv.org/abs/2004.10681)                 ||IIIT-Delhi|:see_no_evil:|
 | CVPR2020     |                 [VOLDOR: Visual Odometry from Log-logistic Dense Optical flow Residuals](http://arxiv.org/abs/2104.06789)                 ||Stevens Institute of Technology|:see_no_evil:|
 | 2021    |                 [Generalizing to the Open World: Deep Visual Odometry with Online Adaptation](http://arxiv.org/abs/2103.15279)                 ||Peking University|:see_no_evil:|
+| ICRA2021    |                 [SA-LOAM: Semantic-aided LiDAR SLAM with Loop Closure](http://arxiv.org/abs/2106.11516)                 ||Zhejiang University|:see_no_evil:|
 # 5-depth estimation and complementation
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
