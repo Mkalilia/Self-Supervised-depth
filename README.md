@@ -40,3 +40,4 @@ Self-Supervised depth kalilia
 | Conference   |     Tittle                                                                              |code|Author|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|
 || [Sparse Auxiliary Networks for Unified Monocular Depth Prediction and Completion Vitor](http://arxiv.org/abs/2103.16690)   ||Toyota Research Institute (TRI)|
+|3DV2019| [Enhancing self-supervised monocular depth estimation with traditional visual odometry](http://arxiv.org/abs/1908.03127)   ||Univrses AB|
