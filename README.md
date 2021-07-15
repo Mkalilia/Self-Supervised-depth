@@ -27,6 +27,7 @@ Self-Supervised depth kalilia
 # 4-SLAM\Visual Odometry
 | Conference   |     Tittle                                                                              |code|Author|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|
+|2016|                 [A Photometrically Calibrated Benchmark For Monocular Visual Odometry](http://arxiv.org/abs/1607.02555)                 ||TUM|
 |PAMI2018|                 [DSO: Direct Sparse Odometry](http://arxiv.org/abs/1607.02565)                 ||TUM|
 |IROS2018|                 [LDSO: Direct Sparse Odometry with Loop Closure](http://arxiv.org/abs/1808.01111)                 ||TUM|
 |2018|                 [Self-improving visual odometry](http://arxiv.org/abs/1812.03245)                 ||Magic Leap, Inc.|
