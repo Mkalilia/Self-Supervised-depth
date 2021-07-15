@@ -19,6 +19,7 @@ Self-Supervised depth kalilia
 | ECCV2018    |                 [Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/pdf/1807.02570)                 ||
 |ICRA2019     | [SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation](http://arxiv.org/abs/1810.01849)||Toyota Research Institute (TRI)|
 |ICCV2019     | [Unsupervised High-Resolution Depth Learning From Videos With Dual Networks](http://arxiv.org/abs/2105.02195)||Tsinghua University|
+|ICCV2019  | [Self-Supervised Monocular Depth Hints](https://arxiv.org/pdf/1909.09051.pdf)|[link](www.github.com/nianticlabs/depth-hints)|Niantic|
 |ICCV2019  | [Monodepth2: Digging into self-supervised monocular depth estimation](http://arxiv.org/abs/1806.01260)|[link](www.github.com/nianticlabs/monodepth2)|UCL/niantic|
 |NIPS2019   | [SC-SfMLearner: Unsupervised scale-consistent depth and ego-motion learning from monocular video](http://arxiv.org/abs/1908.10553)||University of Adelaide, Australia|
 |CVPR2020   | [On the uncertainty of self-supervised monocular depth estimation](http://arxiv.org/abs/2005.06209)|[link](https://github.com/mattpoggi/mono-uncertainty)|University of Bologna, Italy|
