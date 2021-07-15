@@ -13,10 +13,12 @@ Self-Supervised depth kalilia
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|
 | CVPR2018    |[GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](http://arxiv.org/abs/1803.02276)                 |[link](https://github.com/yzcjtr/GeoNet)|SenseTime Research|
 | ECCV2018    |                 [Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/pdf/1807.02570)                 ||
+|CVPR2020   | [On the uncertainty of self-supervised monocular depth estimation](http://arxiv.org/abs/2005.06209)|[link](https://github.com/mattpoggi/mono-uncertainty)|University of Bologna, Italy|
 |AAAI2021|HR-Depth : High Resolution Self-Supervised Monocular Depth Estimation|[link](https://github.com/shawLyu/HR-Depth)|Zhejiang University|
 |CVPR2021     | [Manydepth:The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/pdf/2104.14540.pdf)|[link](http://arxiv.org/abs/2106.03505)|Niantic|
 |CVPR2021     | [MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from a Single Moving Camera](http://arxiv.org/abs/2011.11814)|[link](https://vision.in.tum.de/research/monorec)|TUM|
-|2021     | [Self-supervised Depth Estimation Leveraging Global Perception and Geometric Smoothness Using On-board Videos](http://arxiv.org/abs/2011.11814)|[link](https://vision.in.tum.de/research/monorec)|Hong Kong Polytechnic University|
+|2021     | [Self-supervised Depth Estimation Leveraging Global Perception and Geometric Smoothness Using On-board Videos](http://arxiv.org/abs/2011.11814)||Hong Kong Polytechnic University|
+
 # 3-Multi-view-stereo
 | Conference   |     Tittle                                                                              |code|Author|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|
