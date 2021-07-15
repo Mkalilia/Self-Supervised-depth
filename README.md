@@ -13,7 +13,7 @@ Self-Supervised depth kalilia
 | CVPR2018    |[GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](http://arxiv.org/abs/1803.02276)                 |[link](https://github.com/yzcjtr/GeoNet)|SenseTime Research|
 | ECCV2018    |                 [Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/pdf/1807.02570)                 ||
 |AAAI2021|HR-Depth : High Resolution Self-Supervised Monocular Depth Estimation|[link](https://github.com/shawLyu/HR-Depth)|Zhejiang University|
-
+|CVPR2021     | [Manydepth:The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/pdf/2104.14540.pdf)|[link](https://github.com/nianticlabs/manydepth)|Niantic|
 # 3-Multi-view-stereo
 | Conference   |     Tittle                                                                              |code|Author|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|
