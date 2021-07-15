@@ -16,7 +16,7 @@ Self-Supervised depth kalilia
 | CVPR2017    |[SfMLearner: Unsupervised Learning of Depth and Ego-Motion from Video](http://arxiv.org/abs/1704.07813)                 |[link](https://github.com/tinghuiz/SfMLearner)|UC Berkeley|:see_no_evil:|
 | CVPR2018    |[GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](http://arxiv.org/abs/1803.02276)                 |[link](https://github.com/yzcjtr/GeoNet)|SenseTime Research|:see_no_evil:|
 | ECCV2018    |[DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency](http://arxiv.org/abs/1809.01649)                 |)|Virginia Tech|:see_no_evil:|
-| ECCV2018    |                 [Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/pdf/1807.02570)                 ||:see_no_evil:|
+| ECCV2018    |                 [Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/pdf/1807.02570)                 |||:see_no_evil:|
 |ICRA2019     | [SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation](http://arxiv.org/abs/1810.01849)||Toyota Research Institute (TRI)|:see_no_evil:|
 |AAAI2019     | [Depth prediction without the sensors: Leveraging structure for unsupervised learning from monocular videos](http://arxiv.org/abs/1811.06152)||Harvard University/Google Brain|:see_no_evil:|
 |ICCV2019     | [Unsupervised High-Resolution Depth Learning From Videos With Dual Networks](http://arxiv.org/abs/2105.02195)||Tsinghua University|:see_no_evil:|
