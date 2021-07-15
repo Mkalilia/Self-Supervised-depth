@@ -32,6 +32,7 @@ Self-Supervised depth kalilia
 |     |                 [TartanVO: A Generalizable Learning-based VO](https://arxiv.org/pdf/2011.00359.pdf)                 |[link](https://github.com/castacks/tartanvo)|Carnegie Mellon University|
 | IROS     |                 [D2VO: Monocular Deep Direct Visual Odometry](https://arxiv.org/pdf/2103.13201.pdf)                 |||
 | ECCV2020     |                 [Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction](http://arxiv.org/abs/2004.10681)                 ||IIIT-Delhi|
+| CVPR2020     |                 [VOLDOR: Visual Odometry from Log-logistic Dense Optical flow Residuals](http://arxiv.org/abs/2104.06789)                 ||Stevens Institute of Technology|
 # 5-depth estimation and complementation
 | Conference   |     Tittle                                                                              |code|Author|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|
