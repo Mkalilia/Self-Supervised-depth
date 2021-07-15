@@ -28,6 +28,7 @@ Self-Supervised depth kalilia
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|
 |PAMI2018|                 [DSO: Direct Sparse Odometry](http://arxiv.org/abs/1607.02565)                 ||TUM|
 |IROS2018|                 [LDSO: Direct Sparse Odometry with Loop Closure](http://arxiv.org/abs/1808.01111)                 ||TUM|
+|2018|                 [Self-improving visual odometry](http://arxiv.org/abs/1812.03245)                 ||Magic Leap, Inc.|
 |ICLR2019|                 [BA-NET: DENSE BUNDLE ADJUSTMENT NETWORKS](http://arxiv.org/abs/1806.04807)                 ||Simon Fraser University|
 |     |                 [TartanVO: A Generalizable Learning-based VO](https://arxiv.org/pdf/2011.00359.pdf)                 |[link](https://github.com/castacks/tartanvo)|Carnegie Mellon University|
 | IROS     |                 [D2VO: Monocular Deep Direct Visual Odometry](https://arxiv.org/pdf/2103.13201.pdf)                 |||
