@@ -43,7 +43,7 @@ Self-Supervised depth kalilia
 |2021     | [Self-Supervised Structure-from-Motion through Tightly-Coupled Depth and Egomotion Networks](https://arxiv.org/pdf/2106.04007.pdf)||University of Toronto|:see_no_evil:|
 |2021     | [Moving SLAM: Fully Unsupervised Deep Learning in Non-Rigid Scenes](http://arxiv.org/abs/2105.02195)||HKUST|:see_no_evil:|
 |2021     | [Unsupervised Joint Learning of Depth, Optical Flow, Ego-motion from Video](https://arxiv.org/pdf/2105.14520.pdf)||Tongji University|:see_no_evil:|
-
+|2021     | [Monocular Depth Estimation through Virtual-world Supervision and Real-world SfM Self-Supervision](https://arxiv.org/pdf/2103.12209v1.pdf)|||:see_no_evil:|
 # 3-Multi-view-stereo
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
