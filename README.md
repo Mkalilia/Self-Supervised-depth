@@ -40,6 +40,8 @@ Self-Supervised depth kalilia
 |CVPR2021     | [Manydepth:The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/pdf/2104.14540.pdf)|[link](http://arxiv.org/abs/2106.03505)|Niantic|:see_no_evil:|
 |CVPR2021     | [MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from a Single Moving Camera](http://arxiv.org/abs/2011.11814)|[link](https://vision.in.tum.de/research/monorec)|TUM|:see_no_evil:|
 |2021     | [Self-supervised Depth Estimation Leveraging Global Perception and Geometric Smoothness Using On-board Videos](http://arxiv.org/abs/2011.11814)||Hong Kong Polytechnic University|:see_no_evil:|
+|2021     | [Self-Supervised Structure-from-Motion through Tightly-Coupled Depth and Egomotion Networks](https://arxiv.org/pdf/2106.04007.pdf)||
+University of Toronto|:see_no_evil:|
 |2021     | [Moving SLAM: Fully Unsupervised Deep Learning in Non-Rigid Scenes](http://arxiv.org/abs/2105.02195)||HKUST|:see_no_evil:|
 |2021     | [Unsupervised Joint Learning of Depth, Optical Flow, Ego-motion from Video](https://arxiv.org/pdf/2105.14520.pdf)||Tongji University|:see_no_evil:|
 
