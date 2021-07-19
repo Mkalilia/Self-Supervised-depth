@@ -47,7 +47,8 @@ Self-Supervised depth kalilia
 # 3-Multi-view-stereo
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
-||                 [CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching](http://arxiv.org/abs/2104.04314)                 |[link](https://github.com/gallenszl/CFNet)|Northwestern Polytechnical University|:see_no_evil:|
+||                 [Cost Volume Pyramid Based Depth Inference for Multi-View Stereo Jiayu](http://arxiv.org/abs/2104.04314)                 |[link](https://github.com/BaiFree/CVP-MVSNet)|Northwestern Polytechnical University|:see_no_evil:|
+| CVPR2020    |[Semi-Supervised Deep Learning for Monocular Depth Map Prediction](http://arxiv.org/abs/1912.08329)                 ||Australian National University|:see_no_evil:|
 # 4-SLAM\Visual Odometry
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
