@@ -74,4 +74,4 @@ Self-Supervised depth kalilia
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 || [Sparse Auxiliary Networks for Unified Monocular Depth Prediction and Completion Vitor](http://arxiv.org/abs/2103.16690)   ||Toyota Research Institute (TRI)|:see_no_evil:|
 |3DV2019| [Enhancing self-supervised monocular depth estimation with traditional visual odometry](http://arxiv.org/abs/1908.03127)   ||Univrses AB|:see_no_evil:|
-|ECCV2020     |[S3Net: Semantic-aware self-supervised depth estimation with monocular videos and synthetic data]|(http://arxiv.org/abs/2103.12209)|||:see_no_evil:|
+|ECCV2020     |[S3Net: Semantic-aware self-supervised depth estimation with monocular videos and synthetic data](https://arxiv.org/pdf/2007.14511.pdf)||UCSD|:see_no_evil:|
