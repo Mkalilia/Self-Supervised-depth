@@ -20,6 +20,7 @@ Self-Supervised depth kalilia
 |2019   | [Self-Supervised 3D Keypoint Learning for Ego-motion Estimation](http://arxiv.org/abs/1912.03426)||Toyota Research Institute (TRI)|:see_no_evil:|
 |ICRA2019     | [SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation](http://arxiv.org/abs/1810.01849)||Toyota Research Institute (TRI)|:see_no_evil:|
 |AAAI2019     | [Depth prediction without the sensors: Leveraging structure for unsupervised learning from monocular videos](http://arxiv.org/abs/1811.06152)||Harvard University/Google Brain|:see_no_evil:|
+
 |ICCV2019     | [Unsupervised High-Resolution Depth Learning From Videos With Dual Networks](http://arxiv.org/abs/2105.02195)||Tsinghua University|:see_no_evil:|
 |ICCV2019  | [Self-Supervised Monocular Depth Hints](https://arxiv.org/pdf/1909.09051.pdf)|[link](www.github.com/nianticlabs/depth-hints)|Niantic|:see_no_evil:|
 |ICCV2019  | [Monodepth2: Digging into self-supervised monocular depth estimation](http://arxiv.org/abs/1806.01260)|[link](www.github.com/nianticlabs/monodepth2)|UCL/niantic|:see_no_evil:|
@@ -73,3 +74,4 @@ Self-Supervised depth kalilia
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 || [Sparse Auxiliary Networks for Unified Monocular Depth Prediction and Completion Vitor](http://arxiv.org/abs/2103.16690)   ||Toyota Research Institute (TRI)|:see_no_evil:|
 |3DV2019| [Enhancing self-supervised monocular depth estimation with traditional visual odometry](http://arxiv.org/abs/1908.03127)   ||Univrses AB|:see_no_evil:|
+|ECCV2020     |[S3Net: Semantic-aware self-supervised depth estimation with monocular videos and synthetic data]|(http://arxiv.org/abs/2103.12209)|||:see_no_evil:|
