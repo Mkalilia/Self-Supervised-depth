@@ -41,7 +41,7 @@ Self-Supervised depth kalilia
 |3DV2020   | [Neural Ray Surfaces for Self-Supervised Learning of Depth and Ego-motion](http://arxiv.org/abs/2008.06630)||Toyota Research Institute (TRI)|
 |ICLR2020   | [Semantically-Guided Representation Learning for Self-Supervised Monocular Depth](http://arxiv.org/abs/2002.12319)||Toyota Research Institute (TRI)|
 |CVPR2020   | [On the uncertainty of self-supervised monocular depth estimation](http://arxiv.org/abs/2005.06209)|[link](https://github.com/mattpoggi/mono-uncertainty)|University of Bologna, Italy|:see_no_evil:|
-|CVPR2020   | [Towards Better Generalization: Joint Depth-Pose Learning without PoseNet](http://arxiv.org/abs/2004.01314)|[link](https://github.com/B1ueber2y/TrianFlow)|Tsinghua University|:see_no_evil:|
+|CVPR2020   | [Towards Better Generalization: Joint Depth-Pose Learning without PoseNet](http://arxiv.org/abs/2004.01314)|[link](https://github.com/B1ueber2y/TrianFlow)|Tsinghua University|:see_no_evil:|[link](https://www.yuque.com/kalilia/amcd6z/ztlpsr)|
 |CVPR2020   | [3D Packing for Self-Supervised Monocular Depth Estimation](http://arxiv.org/abs/1905.02693)||Toyota Research Institute (TRI)|:see_no_evil:|
 |CVPR2020   | [Self-supervised monocular trained depth estimation using self-attention and discrete disparity volume](http://arxiv.org/abs/2003.13951)||University of Adelaide|:see_no_evil:|
 |2020   | [SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction](http://arxiv.org/abs/2010.02893)|[link](https://github.com/TRI-ML/packnet-sfm)|Toyota Research Institute (TRI)|:see_no_evil:|
