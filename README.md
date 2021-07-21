@@ -49,7 +49,7 @@ Self-Supervised depth kalilia
 ## 2021
 | Conference   |     Tittle                                                                              |code|Author|mark|note|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
-|AAAI2021|HR-Depth : High Resolution Self-Supervised Monocular Depth Estimation|[link](https://github.com/shawLyu/HR-Depth)|Zhejiang University|:see_no_evil:|
+|AAAI2021|HR-Depth : High Resolution Self-Supervised Monocular Depth Estimation|[link](https://github.com/shawLyu/HR-Depth)|Zhejiang University|:star:|[link](https://www.yuque.com/kalilia/amcd6z/ekrber)|
 |CVPR2021     | [Manydepth:The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/pdf/2104.14540.pdf)|[link](http://arxiv.org/abs/2106.03505)|Niantic|:see_no_evil:|
 |CVPR2021     | [MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from a Single Moving Camera](http://arxiv.org/abs/2011.11814)|[link](https://vision.in.tum.de/research/monorec)|TUM|:see_no_evil:|
 |2021     | [Self-supervised Depth Estimation Leveraging Global Perception and Geometric Smoothness Using On-board Videos](http://arxiv.org/abs/2011.11814)||Hong Kong Polytechnic University|:see_no_evil:|
