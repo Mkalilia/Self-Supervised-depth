@@ -71,20 +71,20 @@ Self-Supervised depth kalilia
 | 2016    |                 [Direct Visual Odometry using Bit-Planes](https://arxiv.org/pdf/1604.00990.pdf)                 ||Carnegie Mellon University|:see_no_evil:|
 | TR2017    |                 [ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras](http://arxiv.org/abs/1610.06475)                 ||Universidad de Zaragoza|:see_no_evil:|
 |2016|                 [A Photometrically Calibrated Benchmark For Monocular Visual Odometry](http://arxiv.org/abs/1607.02555)                 ||TUM|:see_no_evil:|
-##2018-
+## 2018-
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 |PAMI2018|                 [DSO: Direct Sparse Odometry](http://arxiv.org/abs/1607.02565)                 ||TUM|:see_no_evil:|
 |IROS2018|                 [LDSO: Direct Sparse Odometry with Loop Closure](http://arxiv.org/abs/1808.01111)                 ||TUM|:see_no_evil:|
 | ECCV2018    |                 [Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/pdf/1807.02570)                 ||TUM|:see_no_evil:|
 |2018|                 [Self-improving visual odometry](http://arxiv.org/abs/1812.03245)                 ||Magic Leap, Inc.|:see_no_evil:|
-##2019
+## 2019
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 |ICLR2019|                 [BA-NET: DENSE BUNDLE ADJUSTMENT NETWORKS](http://arxiv.org/abs/1806.04807)                 ||Simon Fraser University|:see_no_evil:|
 |     |                 [TartanVO: A Generalizable Learning-based VO](https://arxiv.org/pdf/2011.00359.pdf)                 |[link](https://github.com/castacks/tartanvo)|Carnegie Mellon University|:see_no_evil:|
 | IROS     |                 [D2VO: Monocular Deep Direct Visual Odometry](https://arxiv.org/pdf/2103.13201.pdf)                 |||:see_no_evil:|
-##2020
+## 2020
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 | ECCV2020     |                 [Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction](http://arxiv.org/abs/2004.10681)                 ||IIIT-Delhi|:see_no_evil:|
