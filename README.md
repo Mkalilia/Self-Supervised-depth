@@ -1,19 +1,19 @@
 # Self-Supervised-depth
 Self-Supervised depth kalilia
 # 1-Monocular-depth with Cost Volume
-| Conference   |     Tittle                                                                              |code|Author|mark|
-|--------------|:------------------------------------------------------------------------------------------:|----|----|----|
-|NIPS2020      | [ Forget About the LiDAR: Self-Supervised Depth Estimators with MED Probability Volumes](https://arxiv.org/pdf/2008.03633.pdf)  ||Korea Advanced Institute of Science and Technology|:hear_no_evil:|
-| CVPR2021     |                 [DRO: Deep Recurrent Optimizer for Structure-from-Motion](https://arxiv.org/pdf/2103.13201.pdf)                 ||Alibaba A.I. Labs|:see_no_evil:|
-|CVPR2021     | [The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/pdf/2104.14540.pdf)|[link](https://github.com/nianticlabs/manydepth)|Niantic|:see_no_evil:|
-|CVPR2020   |[Self-supervised Monocular Trained Depth Estimation using Self-attention and Discrete Disparity Volume](https://arxiv.org/pdf/2003.13951.pdf)|[link](https://github.com/sjsu-smart-lab/Self-supervised-Monocular-Trained-Depth-Estimation-using-Self-attention-and-Discrete-Disparity-Volum)|Australian Institute for Machine Learning|:see_no_evil:|
-|ECCV2020   |[Feature-metric Loss for Self-supervised Learning of Depth and Egomotion](https://arxiv.org/pdf/2007.10603.pdf)|[link](https://github.com/sconlyshootery/FeatDepth)||:see_no_evil:|
+| Conference   |     Tittle                                                                              |code|Author|mark|note|
+|--------------|:------------------------------------------------------------------------------------------:|----|----|----|----|
+|NIPS2020      | [ Forget About the LiDAR: Self-Supervised Depth Estimators with MED Probability Volumes](https://arxiv.org/pdf/2008.03633.pdf)  ||Korea Advanced Institute of Science and Technology|:hear_no_evil:|link|
+| CVPR2021     |                 [DRO: Deep Recurrent Optimizer for Structure-from-Motion](https://arxiv.org/pdf/2103.13201.pdf)                 ||Alibaba A.I. Labs|:see_no_evil:|link|
+|CVPR2021     | [The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/pdf/2104.14540.pdf)|[link](https://github.com/nianticlabs/manydepth)|Niantic|:see_no_evil:||
+|CVPR2020   |[Self-supervised Monocular Trained Depth Estimation using Self-attention and Discrete Disparity Volume](https://arxiv.org/pdf/2003.13951.pdf)|[link](https://github.com/sjsu-smart-lab/Self-supervised-Monocular-Trained-Depth-Estimation-using-Self-attention-and-Discrete-Disparity-Volum)|Australian Institute for Machine Learning|:see_no_evil:||
+|ECCV2020   |[Feature-metric Loss for Self-supervised Learning of Depth and Egomotion](https://arxiv.org/pdf/2007.10603.pdf)|[link](https://github.com/sconlyshootery/FeatDepth)||:see_no_evil:||
 
 # 2-Mono-SfM
-| Conference   |     Tittle                                                                              |code|Author|mark|
-|--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|
+| Conference   |     Tittle                                                                              |code|Author|mark|note|
+|--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
 | CVPR2017    |[Semi-Supervised Deep Learning for Monocular Depth Map Prediction](http://arxiv.org/abs/1702.02706)                 ||RWTH Aachen University|:see_no_evil:|
-| CVPR2017    |[SfMLearner: Unsupervised Learning of Depth and Ego-Motion from Video](http://arxiv.org/abs/1704.07813)                 |[link](https://github.com/tinghuiz/SfMLearner)|UC Berkeley|:see_no_evil:|
+| CVPR2017    |[SfMLearner: Unsupervised Learning of Depth and Ego-Motion from Video](http://arxiv.org/abs/1704.07813)                 |[link](https://github.com/tinghuiz/SfMLearner)|UC Berkeley|:see_no_evil:|[link](https://www.yuque.com/kalilia/amcd6z/qcevce)|
 | CVPR2018    |[DVO: Learning Depth from Monocular Videos using Direct Methods](http://arxiv.org/abs/1712.00175)                 ||Carnegie Mellon University|:see_no_evil:|
 | CVPR2018    |[GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](http://arxiv.org/abs/1803.02276)                 |[link](https://github.com/yzcjtr/GeoNet)|SenseTime Research|:see_no_evil:|
 | ECCV2018    |[DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency](http://arxiv.org/abs/1809.01649)                 |)|Virginia Tech|:see_no_evil:|
