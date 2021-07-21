@@ -10,13 +10,20 @@ Self-Supervised depth kalilia
 |ECCV2020   |[Feature-metric Loss for Self-supervised Learning of Depth and Egomotion](https://arxiv.org/pdf/2007.10603.pdf)|[link](https://github.com/sconlyshootery/FeatDepth)||:see_no_evil:||
 
 # 2-Mono-SfM
+## 2017
 | Conference   |     Tittle                                                                              |code|Author|mark|note|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
 | CVPR2017    |[Semi-Supervised Deep Learning for Monocular Depth Map Prediction](http://arxiv.org/abs/1702.02706)                 ||RWTH Aachen University|:see_no_evil:|
 | CVPR2017    |[SfMLearner: Unsupervised Learning of Depth and Ego-Motion from Video](http://arxiv.org/abs/1704.07813)                 |[link](https://github.com/tinghuiz/SfMLearner)|UC Berkeley|:star:|[link](https://www.yuque.com/kalilia/amcd6z/qcevce)|
+## 2018
+| Conference   |     Tittle                                                                              |code|Author|mark|note|
+|--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
 | CVPR2018    |[DVO: Learning Depth from Monocular Videos using Direct Methods](http://arxiv.org/abs/1712.00175)                 ||Carnegie Mellon University|:see_no_evil:|
 | CVPR2018    |[GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](http://arxiv.org/abs/1803.02276)                 |[link](https://github.com/yzcjtr/GeoNet)|SenseTime Research|:see_no_evil:|
 | ECCV2018    |[DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency](http://arxiv.org/abs/1809.01649)                 |)|Virginia Tech|:see_no_evil:|
+## 2019
+| Conference   |     Tittle                                                                              |code|Author|mark|note|
+|--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
 |2019   | [Self-Supervised 3D Keypoint Learning for Ego-motion Estimation](http://arxiv.org/abs/1912.03426)||Toyota Research Institute (TRI)|:see_no_evil:|
 |ICRA2019     | [SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation](http://arxiv.org/abs/1810.01849)||Toyota Research Institute (TRI)|:see_no_evil:|
 |AAAI2019     | [Depth prediction without the sensors: Leveraging structure for unsupervised learning from monocular videos](http://arxiv.org/abs/1811.06152)||Harvard University/Google Brain|:see_no_evil:|
@@ -25,6 +32,9 @@ Self-Supervised depth kalilia
 |ICCV2019  | [Monodepth2: Digging into self-supervised monocular depth estimation](http://arxiv.org/abs/1806.01260)|[link](www.github.com/nianticlabs/monodepth2)|UCL/niantic|:see_no_evil:|
 |NIPS2019   | [SC-SfMLearner: Unsupervised scale-consistent depth and ego-motion learning from monocular video](http://arxiv.org/abs/1908.10553)||University of Adelaide, Australia|:see_no_evil:|
 |CVPR2019  | [Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation](http://arxiv.org/abs/1805.09806)||Max Planck Institute for Intelligent Systems|:see_no_evil:|
+## 2020
+| Conference   |     Tittle                                                                              |code|Author|mark|note|
+|--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
 |ECCV2020   | [DeepSFM: Structure From Motion Via Deep Bundle Adjustment](http://arxiv.org/abs/1912.09697)||Fudan University|:see_no_evil:|
 |CoRL2020   | [Unsupervised Monocular Depth Learning in Dynamic Scenes](http://arxiv.org/abs/2010.16404)||Google Research|:see_no_evil:|
 |CoRL2020   | [Attentional Separation-and-Aggregation Network for Self-supervised Depth-Pose Learning in Dynamic Scenes](http://arxiv.org/abs/2011.09369)||Tsinghua University|:hear_no_evil:|
@@ -36,6 +46,9 @@ Self-Supervised depth kalilia
 |CVPR2020   | [Self-supervised monocular trained depth estimation using self-attention and discrete disparity volume](http://arxiv.org/abs/2003.13951)||University of Adelaide|:see_no_evil:|
 |2020   | [SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction](http://arxiv.org/abs/2010.02893)|[link](https://github.com/TRI-ML/packnet-sfm)|Toyota Research Institute (TRI)|:see_no_evil:|
 |2020   | [Self-Supervised Monocular Depth Estimation : Solving the Dynamic Object Problem by Semantic Guidance](http://arxiv.org/abs/2007.06936)||Technische Universit¨at Braunschweig, Germany|:see_no_evil:|
+## 2021
+| Conference   |     Tittle                                                                              |code|Author|mark|note|
+|--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
 |AAAI2021|HR-Depth : High Resolution Self-Supervised Monocular Depth Estimation|[link](https://github.com/shawLyu/HR-Depth)|Zhejiang University|:see_no_evil:|
 |CVPR2021     | [Manydepth:The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/pdf/2104.14540.pdf)|[link](http://arxiv.org/abs/2106.03505)|Niantic|:see_no_evil:|
 |CVPR2021     | [MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from a Single Moving Camera](http://arxiv.org/abs/2011.11814)|[link](https://vision.in.tum.de/research/monorec)|TUM|:see_no_evil:|
