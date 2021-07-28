@@ -52,8 +52,7 @@ Self-Supervised depth kalilia
 |CVPR2020   | [Self-supervised monocular trained depth estimation using self-attention and discrete disparity volume](http://arxiv.org/abs/2003.13951)||University of Adelaide|:see_no_evil:|
 |2020   | [SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction](http://arxiv.org/abs/2010.02893)|[link](https://github.com/TRI-ML/packnet-sfm)|Toyota Research Institute (TRI)|:see_no_evil:|
 |2020   | [Self-Supervised Monocular Depth Estimation : Solving the Dynamic Object Problem by Semantic Guidance](http://arxiv.org/abs/2007.06936)||Technische Universit¨at Braunschweig, Germany|:see_no_evil:|
-|IROS2020  | [Toward Hierarchical Self-Supervised Monocular Absolute Depth Estimation for Autonomous Driving Applications
-](https://arxiv.org/pdf/2004.05560.pdf)|[link](https://github.com/TJ-IPLab/DNet)|Tongji University|:see_no_evil:|
+|IROS2020  | [Toward Hierarchical Self-Supervised Monocular Absolute Depth Estimation for Autonomous Driving Applications](https://arxiv.org/pdf/2004.05560.pdf)|[link](https://github.com/TJ-IPLab/DNet)|Tongji University|:see_no_evil:|
 ## 2021
 | Conference   |     Tittle                                                                              |code|Author|mark|note|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
