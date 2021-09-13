@@ -101,6 +101,7 @@ by kalilia.
 |CVPR2017|                 [DispNet: Unsupervised Monocular Depth Estimation with Left-Right Consistency](https://arxiv.org/pdf/1609.03677.pdf)                 ||University College London|:see_no_evil:|
 ||                 [Cost Volume Pyramid Based Depth Inference for Multi-View Stereo Jiayu](http://arxiv.org/abs/2104.04314)                 |[link](https://github.com/BaiFree/CVP-MVSNet)|Northwestern Polytechnical University|:see_no_evil:|
 | CVPR2020    |[Semi-Supervised Deep Learning for Monocular Depth Map Prediction](http://arxiv.org/abs/1912.08329)                 ||Australian National University|:see_no_evil:|
+| AAAI2021    |                 [Self-supervised Multi-view Stereo via Effective Co-Segmentation and Data-Augmentation](http://arxiv.org/abs/2104.05374)                 ||South China University of Technology|:see_no_evil:|
 | ICCV2021    |[NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo](http://arxiv.org/abs/2109.01129)                 ||Tsinghua University|:star:|
 # 4-SLAM-Visual-Odometry
 | Conference   |     Tittle                                                                              |code|Author|mark|
