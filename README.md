@@ -73,7 +73,7 @@ Self-Supervised depth kalilia
 |2021     | [Monocular Depth Estimation through Virtual-world Supervision and Real-world SfM Self-Supervision](https://arxiv.org/pdf/2103.12209v1.pdf)|||:see_no_evil:|
 |2021     | [Self-Supervised Learning of Depth and Ego- Motion from Video by Alternative Training and Geometric Constraints from 3D to 2D](https://arxiv.org/pdf/2108.01980.pdf)|||:see_no_evil:|
 |ICCV2021     | [Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation](http://arxiv.org/abs/2108.08829)||Seoul National University|:see_no_evil:|
--update-time-09-13-2021-
+||-update-time-09-13-2021-|
 |ICCV2021     | [Unsupervised Monocular Depth Perception: Focusing on Moving Objects](http://arxiv.org/abs/2108.13062)||Chinese
 University of Hong Kong|:see_no_evil:|
 
