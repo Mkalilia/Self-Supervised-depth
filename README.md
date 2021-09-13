@@ -10,6 +10,8 @@ by kalilia.
   *  [2020](#2020)
   *  [2021](#2021)
 * [Multi-view-Stereo](#3-Multi-view-stereo)
+* [SLAM/Odometry](#4-SLAM\Visual Odometry)
+* [depth complementation](#5-depth estimation and complementation)
 # 0-depth-estimation-overview
 | Conference   |     Tittle                                                                              |code|Author|mark|note|
 |--------------|:------------------------------------------------------------------------------------------:|----|----|----|----|
