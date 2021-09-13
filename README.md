@@ -76,7 +76,7 @@ Self-Supervised depth kalilia
 |ICCV2021     | [Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation](http://arxiv.org/abs/2108.08829)||Seoul National University|:see_no_evil:|
 |ICCV2021     | [Regularizing Nighttime Weirdness: Efficient Self-supervised Monocular Depth Estimation in the Dark](https://github.com/w2kun/RNW)||Nanjing University of Science and Technology|:see_no_evil:|
 |Sensors Journal 2021     | [Unsupervised Monocular Depth Perception: Focusing on Moving Objects](http://arxiv.org/abs/2108.13062)||Chinese University of Hong Kong|:see_no_evil:|
-|2021     | [R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes](https://github.com/w2kun/RNW)||TUM|:see_no_evil:|
+|2021     | [R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes](https://github.com/w2kun/RNW)||TUM|:star:|
 # 3-Multi-view-stereo
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
