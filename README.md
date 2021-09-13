@@ -91,6 +91,7 @@ by kalilia.
 |ICCV2021     | [StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation](http://arxiv.org/abs/2108.08574)||Shanghai Jiao Tong University|:see_no_evil:|
 |Sensors Journal 2021     | [Unsupervised Monocular Depth Perception: Focusing on Moving Objects](http://arxiv.org/abs/2108.13062)||Chinese University of Hong Kong|:see_no_evil:|
 |2021     | [R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes](https://github.com/w2kun/RNW)||TUM|:star:|
+|2021     | [Unsupervised Monocular Depth Estimation in Highly Complex Environments](http://arxiv.org/abs/2107.13137)||East China University of Science and Technology|:see_no_evil:|
 # 3-Multi-view-stereo
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
