@@ -11,7 +11,7 @@ by kalilia.
   *  [2021](#2021)
 * [Multi-view-Stereo](#3-Multi-view-stereo)
 * [SLAM-Odometry](#4-SLAM-Visual-Odometry)
-* [depth complementation](#5-depth-estimation-and-complementation)
+* [depth complementation](#6-depth-estimation-and-complementation)
 # 0-depth-estimation-overview
 | Conference   |     Tittle                                                                              |code|Author|mark|note|
 |--------------|:------------------------------------------------------------------------------------------:|----|----|----|----|
@@ -88,6 +88,7 @@ by kalilia.
 |ICCV2021     | [Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation](http://arxiv.org/abs/2108.08829)||Seoul National University|:see_no_evil:|
 |ICCV2021     | [Regularizing Nighttime Weirdness: Efficient Self-supervised Monocular Depth Estimation in the Dark](https://github.com/w2kun/RNW)||Nanjing University of Science and Technology|:see_no_evil:|
 |ICCV2021     | [Self-supervised Monocular Depth Estimation for All Day Images using Domain Separation](http://arxiv.org/abs/2108.07628)||Zhejiang University|:see_no_evil:|
+|ICCV2021     | [StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation](http://arxiv.org/abs/2108.08574||Shanghai Jiao Tong University|:see_no_evil:|
 |Sensors Journal 2021     | [Unsupervised Monocular Depth Perception: Focusing on Moving Objects](http://arxiv.org/abs/2108.13062)||Chinese University of Hong Kong|:see_no_evil:|
 |2021     | [R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes](https://github.com/w2kun/RNW)||TUM|:star:|
 # 3-Multi-view-stereo
@@ -130,7 +131,10 @@ by kalilia.
 | 2021    |                 [Generalizing to the Open World: Deep Visual Odometry with Online Adaptation](http://arxiv.org/abs/2103.15279)                 ||Peking University|:see_no_evil:|
 | ICRA2021    |                 [SA-LOAM: Semantic-aided LiDAR SLAM with Loop Closure](http://arxiv.org/abs/2106.11516)                 ||Zhejiang University|:see_no_evil:|
 
-# 5-depth-estimation-and-complementation
+# Light-Filed-based-depth
+
+
+# 6-depth-estimation-and-complementation
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 || [Sparse Auxiliary Networks for Unified Monocular Depth Prediction and Completion Vitor](http://arxiv.org/abs/2103.16690)   ||Toyota Research Institute (TRI)|:see_no_evil:|
