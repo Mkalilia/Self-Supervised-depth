@@ -10,7 +10,7 @@ by kalilia.
   *  [2020](#2020)
   *  [2021](#2021)
 * [Multi-view-Stereo](#3-Multi-view-stereo)
-* [SLAM-Odometry](#4-SLAM\Visual Odometry)
+* [SLAM-Odometry](#4-SLAM-Visual Odometry)
 * [depth complementation](#5-depth estimation and complementation)
 # 0-depth-estimation-overview
 | Conference   |     Tittle                                                                              |code|Author|mark|note|
@@ -98,7 +98,7 @@ by kalilia.
 |CVPR2017|                 [DispNet: Unsupervised Monocular Depth Estimation with Left-Right Consistency](https://arxiv.org/pdf/1609.03677.pdf)                 ||University College London|:see_no_evil:|
 ||                 [Cost Volume Pyramid Based Depth Inference for Multi-View Stereo Jiayu](http://arxiv.org/abs/2104.04314)                 |[link](https://github.com/BaiFree/CVP-MVSNet)|Northwestern Polytechnical University|:see_no_evil:|
 | CVPR2020    |[Semi-Supervised Deep Learning for Monocular Depth Map Prediction](http://arxiv.org/abs/1912.08329)                 ||Australian National University|:see_no_evil:|
-# 4-SLAM\Visual Odometry
+# 4-SLAM-Visual Odometry
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 | ECCV2014    |                 [LSD-SLAM: Large-Scale Direct Monocular SLAM](https://link.springer.com/content/pdf/10.1007%2F978-3-319-10605-2_54.pdf)                 ||TUM|:see_no_evil:|
