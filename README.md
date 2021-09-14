@@ -104,8 +104,7 @@ by kalilia.
 | CVPR2020    |[Semi-Supervised Deep Learning for Monocular Depth Map Prediction](http://arxiv.org/abs/1912.08329)                 ||Australian National University|:see_no_evil:|
 | AAAI2021    |                 [Self-supervised Multi-view Stereo via Effective Co-Segmentation and Data-Augmentation](http://arxiv.org/abs/2104.05374)                 ||South China University of Technology|:see_no_evil:|
 | CVPR2021    |                 [Differentiable Diffusion for Dense Depth Estimation from Multi-view Images](https://arxiv.org/pdf/2106.08917.pdf)                 ||Brown University|:see_no_evil:|
-| CVPR2021    |                 [https://arxiv.org/pdf/2104.02972.pdf](https://arxiv.org/pdf/2106.08917.pdf)                 ||Brown University|:see_no_evil:|
-| ICCV2021    |[NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo](https://arxiv.org/pdf/2104.02972.pdf)                 ||Australian National University|:star:|
+| ICCV2021    |[NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo](https://arxiv.org/pdf/2109.01129.pdf)                 ||Australian National University|:star:|
 # 4-SLAM-Visual-Odometry
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
