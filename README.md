@@ -20,6 +20,7 @@ by kalilia.
 # *-datasets
 |     Tittle                                                                              |yaer|mark|note|
 |:------------------------------------------------------------------------------------------:|----|----|----|
+| [ Vision meets Robotics: The KITTI Dataset](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)        |2012||Karlsruhe Institute of Technology|:hear_no_evil:||
 | [ nuScenes: A multimodal dataset for autonomous driving](https://arxiv.org/pdf/1903.11027.pdf)        |2018||nuTonomy: an APTIV company|:hear_no_evil:||
 
 # 1-Monocular-depth with Cost Volume
