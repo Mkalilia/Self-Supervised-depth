@@ -157,7 +157,9 @@ by kalilia.
 # Semantic-aware-depth
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
-|| [SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction](http://arxiv.org/abs/2010.02893)   ||KAIST||
+|2020| [SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction](http://arxiv.org/abs/2010.02893)   ||KAIST||
+|AAAI2021| [Learning Monocular Depth in Dynamic Scenes via Instance-Aware Projection Consistency](http://arxiv.org/abs/2102.02629)   ||KAIST||
+|ICCV2021| [Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation](http://arxiv.org/abs/2108.08829)   ||Seoul National University||
 
 ([Back](#Contents))
 # Virtual2Real-depth
