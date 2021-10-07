@@ -142,7 +142,7 @@ by kalilia.
 # Semantic-aware depth
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
-|| []()   ||||
+|| [SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction](http://arxiv.org/abs/2010.02893)   ||KAIST||
 
 # Virtual2Real depth
 | Conference   |     Tittle                                                                              |code|Author|mark|
