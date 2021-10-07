@@ -47,6 +47,8 @@ by kalilia.
 | CVPR2018    |[GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](http://arxiv.org/abs/1803.02276)                 |[link](https://github.com/yzcjtr/GeoNet)|SenseTime Research|:see_no_evil:|
 | ECCV2018    |[DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency](http://arxiv.org/abs/1809.01649)                 |)|Virginia Tech|:see_no_evil:|
 | ECCV2018    |[Supervising the new with the old: learning SFM from SFM](https://www.robots.ox.ac.uk/~vedaldi/assets/pubs/klodt18supervising.pdf)                 |)|University of Oxford|:see_no_evil:|
+
+([Back](#Contents))
 ## 2019
 | Conference   |     Tittle                                                                              |code|Author|mark|note|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
@@ -59,6 +61,8 @@ by kalilia.
 |NIPS2019   | [SC-SfMLearner: Unsupervised scale-consistent depth and ego-motion learning from monocular video](http://arxiv.org/abs/1908.10553)||University of Adelaide, Australia|:see_no_evil:|
 |CVPR2019  | [Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation](http://arxiv.org/abs/1805.09806)||Max Planck Institute for Intelligent Systems|:see_no_evil:|
 |CoRL2019  | [Robust Semi-Supervised Monocular Depth Estimation with Reprojected Distances](https://arxiv.org/pdf/1910.01765.pdf)||Toyota Research Institute (TRI)|:see_no_evil:|
+
+([Back](#Contents))
 ## 2020
 | Conference   |     Tittle                                                                              |code|Author|mark|note|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
@@ -74,6 +78,8 @@ by kalilia.
 |2020   | [SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction](http://arxiv.org/abs/2010.02893)|[link](https://github.com/TRI-ML/packnet-sfm)|Toyota Research Institute (TRI)|:see_no_evil:|
 |2020   | [Self-Supervised Monocular Depth Estimation : Solving the Dynamic Object Problem by Semantic Guidance](http://arxiv.org/abs/2007.06936)||Technische Universit¨at Braunschweig, Germany|:see_no_evil:|
 |IROS2020  | [Toward Hierarchical Self-Supervised Monocular Absolute Depth Estimation for Autonomous Driving Applications](https://arxiv.org/pdf/2004.05560.pdf)|[link](https://github.com/TJ-IPLab/DNet)|Tongji University|:see_no_evil:|
+
+([Back](#Contents))
 ## 2021
 | Conference   |     Tittle                                                                              |code|Author|mark|note|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
@@ -97,6 +103,7 @@ by kalilia.
 |Sensors Journal 2021     | [Unsupervised Monocular Depth Perception: Focusing on Moving Objects](http://arxiv.org/abs/2108.13062)||Chinese University of Hong Kong|:see_no_evil:|
 |2021     | [R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes](https://github.com/w2kun/RNW)||TUM|:star:|
 |2021     | [Unsupervised Monocular Depth Estimation in Highly Complex Environments](http://arxiv.org/abs/2107.13137)||East China University of Science and Technology|:see_no_evil:|
+
 ([Back](#Contents))
 # 3-Multi-view-stereo
 | Conference   |     Tittle                                                                              |code|Author|mark|
@@ -109,6 +116,7 @@ by kalilia.
 | AAAI2021    |                 [Self-supervised Multi-view Stereo via Effective Co-Segmentation and Data-Augmentation](http://arxiv.org/abs/2104.05374)                 ||South China University of Technology|:see_no_evil:|
 | CVPR2021    |                 [Differentiable Diffusion for Dense Depth Estimation from Multi-view Images](https://arxiv.org/pdf/2106.08917.pdf)                 ||Brown University|:see_no_evil:|
 | ICCV2021    |[NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo](https://arxiv.org/pdf/2109.01129.pdf)                 ||Australian National University|:star:|
+
 ([Back](#Contents))
 # 4-SLAM-Visual-Odometry
 | Conference   |     Tittle                                                                              |code|Author|mark|
@@ -118,6 +126,7 @@ by kalilia.
 | 2016    |                 [Direct Visual Odometry using Bit-Planes](https://arxiv.org/pdf/1604.00990.pdf)                 ||Carnegie Mellon University|:see_no_evil:|
 | TR2017    |                 [ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras](http://arxiv.org/abs/1610.06475)                 ||Universidad de Zaragoza|:see_no_evil:|
 |2016|                 [A Photometrically Calibrated Benchmark For Monocular Visual Odometry](http://arxiv.org/abs/1607.02555)                 ||TUM|:see_no_evil:|
+
 ([Back](#Contents))
 ## 2018
 | Conference   |     Tittle                                                                              |code|Author|mark|
@@ -127,6 +136,7 @@ by kalilia.
 | ECCV2018    |                 [Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://arxiv.org/pdf/1807.02570)                 ||TUM|:see_no_evil:|
 |2018|                 [Self-improving visual odometry](http://arxiv.org/abs/1812.03245)                 ||Magic Leap, Inc.|:see_no_evil:|
 
+([Back](#Contents))
 ## 2019
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
@@ -134,6 +144,7 @@ by kalilia.
 |     |                 [TartanVO: A Generalizable Learning-based VO](https://arxiv.org/pdf/2011.00359.pdf)                 |[link](https://github.com/castacks/tartanvo)|Carnegie Mellon University|:see_no_evil:|
 | IROS     |                 [D2VO: Monocular Deep Direct Visual Odometry](https://arxiv.org/pdf/2103.13201.pdf)                 |||:see_no_evil:|
 
+([Back](#Contents))
 ## 2020
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
@@ -142,24 +153,26 @@ by kalilia.
 | 2021    |                 [Generalizing to the Open World: Deep Visual Odometry with Online Adaptation](http://arxiv.org/abs/2103.15279)                 ||Peking University|:see_no_evil:|
 | ICRA2021    |                 [SA-LOAM: Semantic-aided LiDAR SLAM with Loop Closure](http://arxiv.org/abs/2106.11516)                 ||Zhejiang University|:see_no_evil:|
 
-# Semantic-aware-depth
 ([Back](#Contents))
+# Semantic-aware-depth
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 || [SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction](http://arxiv.org/abs/2010.02893)   ||KAIST||
 
-# Virtual2Real-depth
 ([Back](#Contents))
+# Virtual2Real-depth
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 || []()   ||||
 
+([Back](#Contents))
 # NightTime-depth
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 |ICCV 2021| [Regularizing Nighttime Weirdness: Efficient Self-supervised Monocular Depth Estimation in the Dark](https://github.com/w2kun/RNW)   ||Nanjing University of Science and Technology|:see_no_evil:|
 |ICCV 2021| [Self-supervised Monocular Depth Estimation for All Day Images using Domain Separation](http://arxiv.org/abs/2108.07628)   ||Zhejiang University|:see_no_evil:|
 |2021| [Unsupervised Depth and Ego-motion Estimation for Monocular Thermal Video using Multi-spectral Consistency Loss](https://arxiv.org/abs/2103.00760)   ||KAIST|:see_no_evil:|
+
 ([Back](#Contents))
 # Light-Filed-based-depth
 | Conference   |     Tittle                                                                              |code|Author|mark|
@@ -168,6 +181,7 @@ by kalilia.
 | CVPR2021    |                 [Differentiable Diffusion for Dense Depth Estimation from Multi-view Images](https://arxiv.org/pdf/2106.08917.pdf)                 ||Brown University|:see_no_evil:|
 | IROS2021    |                 [Unsupervised Learning of Depth Estimation and Visual Odometry for Sparse Light Field Cameras](http://arxiv.org/abs/2103.11322)                 ||Brown University|:see_no_evil:|
 | 2021    |                 [Occlusion-aware Unsupervised Learning of Depth from 4-D Light Fields](https://arxiv.org/pdf/2106.03043.pdf)                 ||University of Sydney|:see_no_evil:|
+
 ([Back](#Contents))
 # 6-depth-estimation-and-complementation 
 | Conference   |     Tittle                                                                              |code|Author|mark|
@@ -175,4 +189,5 @@ by kalilia.
 || [Sparse Auxiliary Networks for Unified Monocular Depth Prediction and Completion Vitor](http://arxiv.org/abs/2103.16690)   ||Toyota Research Institute (TRI)|:see_no_evil:|
 |3DV2019| [Enhancing self-supervised monocular depth estimation with traditional visual odometry](http://arxiv.org/abs/1908.03127)   ||Univrses AB|:see_no_evil:|
 |ECCV2020     |[S3Net: Semantic-aware self-supervised depth estimation with monocular videos and synthetic data](https://arxiv.org/pdf/2007.14511.pdf)||UCSD|:see_no_evil:|
+
 ([Back](#Contents))
