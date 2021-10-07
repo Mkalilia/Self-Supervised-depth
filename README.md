@@ -144,7 +144,7 @@ by kalilia.
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 |ICCV 2021| [Regularizing Nighttime Weirdness: Efficient Self-supervised Monocular Depth Estimation in the Dark](https://github.com/w2kun/RNW)   ||Nanjing University of Science and Technology|:see_no_evil:|
 |ICCV 2021| [Self-supervised Monocular Depth Estimation for All Day Images using Domain Separation](http://arxiv.org/abs/2108.07628)   ||Zhejiang University|:see_no_evil:|
-
+|2021| [Unsupervised Depth and Ego-motion Estimation for Monocular Thermal Video using Multi-spectral Consistency Loss](https://arxiv.org/abs/2103.00760)   ||KAIST|:see_no_evil:|
 
 # Light-Filed-based-depth
 | Conference   |     Tittle                                                                              |code|Author|mark|
