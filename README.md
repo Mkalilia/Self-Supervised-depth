@@ -143,6 +143,8 @@ by kalilia.
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 |ICCV 2021| [Regularizing Nighttime Weirdness: Efficient Self-supervised Monocular Depth Estimation in the Dark](https://github.com/w2kun/RNW)   ||Nanjing University of Science and Technology|:see_no_evil:|
+|ICCV 2021| [Self-supervised Monocular Depth Estimation for All Day Images using Domain Separation](http://arxiv.org/abs/2108.07628)   ||Zhejiang University|:see_no_evil:|
+
 
 # Light-Filed-based-depth
 | Conference   |     Tittle                                                                              |code|Author|mark|
