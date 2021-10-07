@@ -139,6 +139,12 @@ by kalilia.
 | 2021    |                 [Generalizing to the Open World: Deep Visual Odometry with Online Adaptation](http://arxiv.org/abs/2103.15279)                 ||Peking University|:see_no_evil:|
 | ICRA2021    |                 [SA-LOAM: Semantic-aided LiDAR SLAM with Loop Closure](http://arxiv.org/abs/2106.11516)                 ||Zhejiang University|:see_no_evil:|
 
+# Semantic-aware depth
+| Conference   |     Tittle                                                                              |code|Author|mark|
+|--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
+|| []()   ||||
+
+
 # NightTime depth
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
