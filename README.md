@@ -67,6 +67,7 @@ by kalilia.
 | Conference   |     Tittle                                                                              |code|Author|mark|note|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
 |ECCV2020   | [DeepSFM: Structure From Motion Via Deep Bundle Adjustment](http://arxiv.org/abs/1912.09697)||Fudan University|:see_no_evil:|
+|ECCV2020   | [P2Net: Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation](https://arxiv.org/pdf/2007.07696.pdf)||ShanghaiTech Univsertiy|:see_no_evil:|
 |CoRL2020   | [Unsupervised Monocular Depth Learning in Dynamic Scenes](http://arxiv.org/abs/2010.16404)||Google Research|:see_no_evil:|
 |CoRL2020   | [Attentional Separation-and-Aggregation Network for Self-supervised Depth-Pose Learning in Dynamic Scenes](http://arxiv.org/abs/2011.09369)||Tsinghua University|:hear_no_evil:|
 |3DV2020   | [Neural Ray Surfaces for Self-Supervised Learning of Depth and Ego-motion](http://arxiv.org/abs/2008.06630)||Toyota Research Institute (TRI)|
