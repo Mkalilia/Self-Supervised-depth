@@ -84,7 +84,7 @@ by kalilia.
 | Conference   |     Tittle                                                                              |code|Author|mark|note|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
 |AAAI2021|HR-Depth : High Resolution Self-Supervised Monocular Depth Estimation|[link](https://github.com/shawLyu/HR-Depth)|Zhejiang University|:star:|[link](https://www.yuque.com/kalilia/amcd6z/ekrber)|
-|AAAI2021|[Learning Monocular Depth in Dynamic Scenes via Instance-Aware Projection Consistency](http://arxiv.org/abs/2102.02629)||KAIST|:star:|[link](https://www.yuque.com/kalilia/amcd6z/oz1hqh)|
+|AAAI2021|[Learning Monocular Depth in Dynamic Scenes via Instance-Aware Projection Consistency](http://arxiv.org/abs/2102.02629)|[link](https://github.com/SeokjuLee/Insta-DM)|KAIST|:star:|[link](https://www.yuque.com/kalilia/amcd6z/oz1hqh)|
 |CVPR2021     | [Manydepth:The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/pdf/2104.14540.pdf)|[link](http://arxiv.org/abs/2106.03505)|Niantic|:see_no_evil:|
 |CVPR2021     | [MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from a Single Moving Camera](http://arxiv.org/abs/2011.11814)|[link](https://vision.in.tum.de/research/monorec)|TUM|:see_no_evil:|
 |IROS2021     | [Self-Supervised Scale Recovery for Monocular Depth and Egomotion Estimation](https://arxiv.org/pdf/2009.03787.pdf)||University of Toronto|:see_no_evil:|
