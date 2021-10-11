@@ -59,7 +59,7 @@ by kalilia.
 |ICCV2019  | [Self-Supervised Monocular Depth Hints](https://arxiv.org/pdf/1909.09051.pdf)|[link](www.github.com/nianticlabs/depth-hints)|Niantic|:see_no_evil:|
 |ICCV2019  | [Monodepth2: Digging into self-supervised monocular depth estimation](http://arxiv.org/abs/1806.01260)|[link](www.github.com/nianticlabs/monodepth2)|UCL/niantic|:star2:|
 |NIPS2019   | [SC-SfMLearner: Unsupervised scale-consistent depth and ego-motion learning from monocular video](http://arxiv.org/abs/1908.10553)||University of Adelaide, Australia|:see_no_evil:|
-|CVPR2019  | [Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation](http://arxiv.org/abs/1805.09806)||Max Planck Institute for Intelligent Systems|:see_no_evil:|
+|CVPR2019  | [Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation](http://arxiv.org/abs/1805.09806)|[link](https://github.com/anuragranj/cc)|Max Planck Institute for Intelligent Systems|:see_no_evil:|
 |CoRL2019  | [Robust Semi-Supervised Monocular Depth Estimation with Reprojected Distances](https://arxiv.org/pdf/1910.01765.pdf)||Toyota Research Institute (TRI)|:see_no_evil:|
 
 ([Back](#Contents))
