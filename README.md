@@ -11,7 +11,6 @@ by kalilia.
   *  [2021](#2021)
 * [Mutiview: Multi-view-Stereo](#3-Multi-view-stereo)
 * [Light-Field-based](#Light-Filed-based-depth)
-
 * [depth complementation](#6-depth-estimation-and-complementation)
 * [Night time depth](#NightTime-depth)
 * [Semantic aware depth](#Semantic-aware-depth)
