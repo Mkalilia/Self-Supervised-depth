@@ -25,16 +25,7 @@ by kalilia.
 | [ Vision meets Robotics: The KITTI Dataset](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)        |2012||Karlsruhe Institute of Technology|:hear_no_evil:||
 | [ nuScenes: A multimodal dataset for autonomous driving](https://arxiv.org/pdf/1903.11027.pdf)        |2018||nuTonomy: an APTIV company|:hear_no_evil:||
 
-# 1-Monocular-depth with Cost Volume
-| Conference   |     Tittle                                                                              |code|Author|mark|note|
-|--------------|:------------------------------------------------------------------------------------------:|----|----|----|----|
-|NIPS2020      | [ Forget About the LiDAR: Self-Supervised Depth Estimators with MED Probability Volumes](https://arxiv.org/pdf/2008.03633.pdf)  ||Korea Advanced Institute of Science and Technology|:hear_no_evil:|link|
-| CVPR2021     |                 [DRO: Deep Recurrent Optimizer for Structure-from-Motion](https://arxiv.org/pdf/2103.13201.pdf)                 ||Alibaba A.I. Labs|:see_no_evil:|link|
-|CVPR2021     | [The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/pdf/2104.14540.pdf)|[link](https://github.com/nianticlabs/manydepth)|Niantic|:see_no_evil:||
-|CVPR2020   |[Self-supervised Monocular Trained Depth Estimation using Self-attention and Discrete Disparity Volume](https://arxiv.org/pdf/2003.13951.pdf)|[link](https://github.com/sjsu-smart-lab/Self-supervised-Monocular-Trained-Depth-Estimation-using-Self-attention-and-Discrete-Disparity-Volum)|Australian Institute for Machine Learning|:see_no_evil:||
-|ECCV2020   |[Feature-metric Loss for Self-supervised Learning of Depth and Egomotion](https://arxiv.org/pdf/2007.10603.pdf)|[link](https://github.com/sconlyshootery/FeatDepth)||:see_no_evil:||
-
-# 2-Mono-SfM
+# Mono-SfM
 ## 2017
 | Conference   |     Tittle                                                                              |code|Author|mark|note|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
@@ -69,6 +60,7 @@ by kalilia.
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
 |ECCV2020   | [DeepSFM: Structure From Motion Via Deep Bundle Adjustment](http://arxiv.org/abs/1912.09697)||Fudan University|:see_no_evil:|
 |ECCV2020   | [P2Net: Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation](https://arxiv.org/pdf/2007.07696.pdf)||ShanghaiTech Univsertiy|:see_no_evil:|
+|ECCV2020   |[Feature-metric Loss for Self-supervised Learning of Depth and Egomotion](https://arxiv.org/pdf/2007.10603.pdf)|[link](https://github.com/sconlyshootery/FeatDepth)||:see_no_evil:||
 |CoRL2020   | [Unsupervised Monocular Depth Learning in Dynamic Scenes](http://arxiv.org/abs/2010.16404)||Google Research|:see_no_evil:|
 |CoRL2020   | [Attentional Separation-and-Aggregation Network for Self-supervised Depth-Pose Learning in Dynamic Scenes](http://arxiv.org/abs/2011.09369)||Tsinghua University|:hear_no_evil:|
 |3DV2020   | [Neural Ray Surfaces for Self-Supervised Learning of Depth and Ego-motion](http://arxiv.org/abs/2008.06630)||Toyota Research Institute (TRI)|
@@ -162,6 +154,14 @@ by kalilia.
 |2020| [SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction](http://arxiv.org/abs/2010.02893)   ||KAIST||
 |AAAI2021| [Learning Monocular Depth in Dynamic Scenes via Instance-Aware Projection Consistency](http://arxiv.org/abs/2102.02629)   ||KAIST||
 |ICCV2021| [Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation](http://arxiv.org/abs/2108.08829)   ||Seoul National University||
+
+# 1-Monocular-depth with Cost Volume
+| Conference   |     Tittle                                                                              |code|Author|mark|note|
+|--------------|:------------------------------------------------------------------------------------------:|----|----|----|----|
+|NIPS2020      | [ Forget About the LiDAR: Self-Supervised Depth Estimators with MED Probability Volumes](https://arxiv.org/pdf/2008.03633.pdf)  ||Korea Advanced Institute of Science and Technology|:hear_no_evil:|link|
+| CVPR2021     |                 [DRO: Deep Recurrent Optimizer for Structure-from-Motion](https://arxiv.org/pdf/2103.13201.pdf)                 ||Alibaba A.I. Labs|:see_no_evil:|link|
+|CVPR2021     | [The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/pdf/2104.14540.pdf)|[link](https://github.com/nianticlabs/manydepth)|Niantic|:see_no_evil:||
+|CVPR2020   |[Self-supervised Monocular Trained Depth Estimation using Self-attention and Discrete Disparity Volume](https://arxiv.org/pdf/2003.13951.pdf)|[link](https://github.com/sjsu-smart-lab/Self-supervised-Monocular-Trained-Depth-Estimation-using-Self-attention-and-Discrete-Disparity-Volum)|Australian Institute for Machine Learning|:see_no_evil:||
 
 ([Back](#Contents))
 # Virtual2Real-depth
