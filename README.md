@@ -184,7 +184,6 @@ by kalilia.
 # Light-Filed-based-depth
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
-| TPAMI2021    |                 [Revisiting Light Field Rendering with Deep Anti-Aliasing Neural Network](https://arxiv.org/pdf/2104.06797.pdf)                 ||Northeastern University|:see_no_evil:|
 | CVPR2021    |                 [Differentiable Diffusion for Dense Depth Estimation from Multi-view Images](https://arxiv.org/pdf/2106.08917.pdf)                 ||Brown University|:see_no_evil:|
 | IROS2021    |                 [Unsupervised Learning of Depth Estimation and Visual Odometry for Sparse Light Field Cameras](http://arxiv.org/abs/2103.11322)                 ||The University of Sydney|:see_no_evil:|
 | 2021    |                 [Occlusion-aware Unsupervised Learning of Depth from 4-D Light Fields](https://arxiv.org/pdf/2106.03043.pdf)                 ||University of Sydney|:see_no_evil:|
