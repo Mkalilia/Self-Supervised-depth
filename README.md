@@ -176,8 +176,9 @@ by kalilia.
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
 ||-update-time-10-13-2021-||||
 |CVPR 2020| [Consistent Video Depth Estimation](https://arxiv.org/pdf/2012.05901.pdf)   ||University of Washington||
-|CVPR 2021| [Robust Consistent Video Depth Estimation](https://arxiv.org/pdf/2012.05901v1.pdf)   ||Facebook||
+|CVPR 2021| [Robust Consistent Video Depth Estimation](https://arxiv.org/pdf/2012.05901.pdf)   ||Facebook||
 |SIGGRAPH 2021| [Consistent Depth of Moving Objects in Video](https://arxiv.org/pdf/2108.01166.pdf)   ||||
+
 ([Back](#Contents))
 
 # Virtual2Real-depth
