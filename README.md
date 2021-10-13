@@ -102,7 +102,8 @@ by kalilia.
 |Sensors Journal 2021     | [Unsupervised Monocular Depth Perception: Focusing on Moving Objects](http://arxiv.org/abs/2108.13062)||Chinese University of Hong Kong|:see_no_evil:|
 |2021     | [R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes](https://github.com/w2kun/RNW)||TUM|:star:|
 |2021     | [Unsupervised Monocular Depth Estimation in Highly Complex Environments](http://arxiv.org/abs/2107.13137)||East China University of Science and Technology|:see_no_evil:|
-
+||-update-time-10-13-2021-||||
+|3DV 2021     | [PLNet: Plane and Line Priors for Unsupervised Indoor Depth Estimation](https://arxiv.org/pdf/2110.05839.pdf)||The Chinese University of Hong Kong|:see_no_evil:|
 ([Back](#Contents))
 # 3-Multi-view-stereo
 | Conference   |     Tittle                                                                              |code|Author|mark|
@@ -169,6 +170,16 @@ by kalilia.
 |CVPR2020   |[Self-supervised Monocular Trained Depth Estimation using Self-attention and Discrete Disparity Volume](https://arxiv.org/pdf/2003.13951.pdf)|[link](https://github.com/sjsu-smart-lab/Self-supervised-Monocular-Trained-Depth-Estimation-using-Self-attention-and-Discrete-Disparity-Volum)|Australian Institute for Machine Learning|:see_no_evil:||
 
 ([Back](#Contents))
+
+# Video depth
+| Conference   |     Tittle                                                                              |code|Author|mark|
+|--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
+||-update-time-10-13-2021-||||
+|CVPR 2020| [Consistent Video Depth Estimation](https://arxiv.org/pdf/2012.05901.pdf)   ||University of Washington||
+|CVPR 2021| [Robust Consistent Video Depth Estimation](https://arxiv.org/pdf/2012.05901v1.pdf)   ||Facebook||
+|SIGGRAPH 2021| [Consistent Depth of Moving Objects in Video](https://arxiv.org/pdf/2108.01166.pdf)   ||||
+([Back](#Contents))
+
 # Virtual2Real-depth
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
