@@ -104,6 +104,12 @@ by kalilia.
 |2021     | [Unsupervised Monocular Depth Estimation in Highly Complex Environments](http://arxiv.org/abs/2107.13137)||East China University of Science and Technology|:see_no_evil:|
 ||-update-time-10-13-2021-||||
 |3DV 2021     | [PLNet: Plane and Line Priors for Unsupervised Indoor Depth Estimation](https://arxiv.org/pdf/2110.05839.pdf)||The Chinese University of Hong Kong|:see_no_evil:|
+||-update-time-11-29-2021-||||
+| 2021 BMVC    |[X-Distill: Improving Self-Supervised Monocular Depth via Cross-Task Distillation](https://arxiv.org/pdf/2110.12516.pdf)                 ||||
+| 2021 BMVC    |[Self-Supervised Monocular Depth Estimation with Internal Feature Fusion](https://arxiv.org/pdf/2110.09482.pdf)                 ||||
+| 2021 3DV   |[Attention meets Geometry: Geometry Guided Spatial-Temporal Attention for Consistent Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/2110.08192.pdf)                 ||||
+| 2021    |[SUB-Depth: Self-distillation and Uncertainty Boosting Self-supervised Monocular Depth Estimation](https://arxiv.org/pdf/2111.09692.pdf)                 ||||
+
 ([Back](#Contents))
 # 3-Multi-view-stereo
 | Conference   |     Tittle                                                                              |code|Author|mark|
