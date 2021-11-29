@@ -108,6 +108,7 @@ by kalilia.
 | 2021 BMVC    |[X-Distill: Improving Self-Supervised Monocular Depth via Cross-Task Distillation](https://arxiv.org/pdf/2110.12516.pdf)                 ||||
 | 2021 BMVC    |[Self-Supervised Monocular Depth Estimation with Internal Feature Fusion](https://arxiv.org/pdf/2110.09482.pdf)                 ||||
 | 2021 3DV   |[Attention meets Geometry: Geometry Guided Spatial-Temporal Attention for Consistent Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/2110.08192.pdf)                 ||||
+|ICCV2021     | [Excavating the Potential Capacity of Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/2109.12484.pdf)||Peking University|:see_no_evil:|
 | 2021    |[SUB-Depth: Self-distillation and Uncertainty Boosting Self-supervised Monocular Depth Estimation](https://arxiv.org/pdf/2111.09692.pdf)                 ||||
 
 ([Back](#Contents))
@@ -216,5 +217,6 @@ by kalilia.
 |3DV2019| [Enhancing self-supervised monocular depth estimation with traditional visual odometry](http://arxiv.org/abs/1908.03127)   ||Univrses AB|:see_no_evil:|
 |ECCV2020     |[S3Net: Semantic-aware self-supervised depth estimation with monocular videos and synthetic data](https://arxiv.org/pdf/2007.14511.pdf)||UCSD|:see_no_evil:|
 |ICCV2021     |[Unsupervised Depth Completion with Calibrated Backprojection Layers Alex](http://arxiv.org/abs/2108.10531)||UCLA|:see_no_evil:|
-
+||-update-time-11-29-2021-||||
+|    |[Self-Supervised Depth Completion for Active Stereo](https://arxiv.org/pdf/2110.03234.pdf)||UCLA|:see_no_evil:|
 ([Back](#Contents))
