@@ -120,8 +120,8 @@ by kalilia.
 |ICCV2019|[Moving Indoor: Unsupervised Video Depth Learning in Challenging Environments](https://arxiv.org/pdf/1910.08898.pdf)||Tsinghua University||
 |ECCV2020|[P2Net: Patch-match and Plane-regularizationfor Unsupervised Indoor Depth Estimation](https://arxiv.org/pdf/2007.07696.pdf)||ShanghaiTech Univsertiy||
 |ICCV2021|[StructDepth: Leveraging the structural regularities for self-supervised indoordepth estimation](https://arxiv.org/pdf/2108.08574.pdf)||||
-|ICCV2021||[MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments](https://arxiv.org/pdf/2107.12429.pdf)||OPPO US Research Cente||
-|3DV2021||[PLNet: Plane and Line Priors for Unsupervised Indoor Depth Estimation](https://arxiv.org/pdf/2110.05839.pdf)||The Chinese University of Hong Kong||
+|ICCV2021|[MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments](https://arxiv.org/pdf/2107.12429.pdf)||OPPO US Research Cente||
+|3DV2021|[PLNet: Plane and Line Priors for Unsupervised Indoor Depth Estimation](https://arxiv.org/pdf/2110.05839.pdf)||The Chinese University of Hong Kong||
 |TIPAMI|[Auto-Rectify Network for Unsupervised IndoorDepth Estimation](https://arxiv.org/pdf/2006.02708.pdf)||University of Adelaide||
 |2022|[Toward Practical Self-Supervised Monocular Indoor Depth Estimation](https://arxiv.org/pdf/2112.02306.pdf)||University of Southern California||
 ([Back](#Contents))
