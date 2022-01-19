@@ -9,6 +9,7 @@ by kalilia.
   *  [2017-2019](#2017)
   *  [2020](#2020)
   *  [2021](#2021)
+  *  [Indoor](#indoor)
 * [2-Mutiview: Multi-view-Stereo](#3-Multi-view-stereo)
 * [3-Light-Field-based](#Light-Filed-based-depth)
 * [i-Night time depth](#NightTime-depth)
@@ -25,7 +26,9 @@ by kalilia.
 |     Tittle                                                                              |yaer|mark|note|
 |:------------------------------------------------------------------------------------------:|----|----|----|
 | [ Vision meets Robotics: The KITTI Dataset](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)        |2012||Karlsruhe Institute of Technology|:hear_no_evil:||
+| [ NYUDepth-v2：Indoor Segmentation and Support Inference from RGBD Images](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf)        |2012||New York University|:hear_no_evil:||
 | [ nuScenes: A multimodal dataset for autonomous driving](https://arxiv.org/pdf/1903.11027.pdf)        |2018||nuTonomy: an APTIV company|:hear_no_evil:||
+
 
 # Mono-SfM
 ## 2017
@@ -110,8 +113,18 @@ by kalilia.
 | 2021 3DV   |[Attention meets Geometry: Geometry Guided Spatial-Temporal Attention for Consistent Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/2110.08192.pdf)                 ||||
 |ICCV2021     | [Excavating the Potential Capacity of Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/2109.12484.pdf)||Peking University|:see_no_evil:|
 | 2021    |[SUB-Depth: Self-distillation and Uncertainty Boosting Self-supervised Monocular Depth Estimation](https://arxiv.org/pdf/2111.09692.pdf)                 ||||
-
+## indoor
+| Conference   |     Tittle                                                                              |code|Author|mark|note|
+|--------------|:-------------------------------------------------------------------------------------------:|----|-----|----|----|
+|ICCV2019|[Moving Indoor: Unsupervised Video Depth Learning in Challenging Environments](https://arxiv.org/pdf/1910.08898.pdf)||Tsinghua University|||
+|ECCV2020|[P2Net: Patch-match and Plane-regularizationfor Unsupervised Indoor Depth Estimation](https://arxiv.org/pdf/2007.07696.pdf)||ShanghaiTech Univsertiy|||
+|ICCV2021|[StructDepth: Leveraging the structural regularities for self-supervised indoordepth estimation](https://arxiv.org/pdf/2108.08574.pdf)|||||
+|ICCV2021||[MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments](https://arxiv.org/pdf/2107.12429.pdf)||OPPO US Research Cente||
+|3DV2021||[PLNet: Plane and Line Priors for Unsupervised Indoor Depth Estimation](https://arxiv.org/pdf/2110.05839.pdf)||The Chinese University of Hong Kong||
+|TIPAMI|[Auto-Rectify Network for Unsupervised IndoorDepth Estimation](https://arxiv.org/pdf/2006.02708.pdf)||University of Adelaide|||
+|2022|[Toward Practical Self-Supervised Monocular Indoor Depth Estimation](https://arxiv.org/pdf/2112.02306.pdf)||University of Southern California|||
 ([Back](#Contents))
+
 # 3-Multi-view-stereo
 | Conference   |     Tittle                                                                              |code|Author|mark|
 |--------------|:-------------------------------------------------------------------------------------------:|----|-----|-----|
